@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* [Project Report](https://github.com/amir-ghaderi/Credit-Card-Default-Payments-Classification/blob/master/Project%20Report.pdf) 
-* [R Code](https://github.com/amir-ghaderi/Credit-Card-Default-Payments-Classification/blob/master/Project%20R%20Code.R) 
-* [Presentation Deck](https://github.com/amir-ghaderi/Credit-Card-Default-Payments-Classification/blob/master/Project%20Presentation%20Deck.pptx) 
-* [Credit Card Dataset](https://github.com/amir-ghaderi/Credit-Card-Default-Payments-Classification/blob/master/Credit%20Card%20Dataset.csv) 
+* [Project Report](https://github.com/amir-ghaderi/Breast-Cancer-Tumor-Classification/blob/master/Final%20Report.pdf) 
+* [R Code](https://github.com/amir-ghaderi/Breast-Cancer-Tumor-Classification/blob/master/R%20code.R) 
+* [Presentation Deck](https://github.com/amir-ghaderi/Breast-Cancer-Tumor-Classification/blob/master/Presentation%20Deck.pptx) 
+* [Breast Cancer Dataset](https://github.com/amir-ghaderi/Breast-Cancer-Tumor-Classification/blob/master/Breast%20Cancer%20Dataset.csv) 
